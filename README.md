@@ -3,4 +3,4 @@ my awesome website test
 
 changed readme for update-readme branch
 
-update readme locally!!
+update readme locally!! then remotely

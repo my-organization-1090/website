@@ -1,6 +1,6 @@
 # my-website
 my awesome website test
 
-updating readme file on GitHub before rebase
+## purpose
 
-updating readme file on GitHub before rebase 2
+Adding some lines on Github for develop branch
